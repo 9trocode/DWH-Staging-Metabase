@@ -1,0 +1,21 @@
+{
+  "name": "dwh_metabase_staging",
+  "version": "1.0.0",
+  "description": "Metabase Embed Staging Test",
+  "author": "NitroCode",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "cross-env": "^5.2.0",
+    "jsonwebtoken": "^8.5.0",
+    "nuxt": "^2.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
